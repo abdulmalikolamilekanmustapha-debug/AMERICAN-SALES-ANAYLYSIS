@@ -525,11 +525,9 @@ select * from retail_sales_powerbi;
 The analysis shows that the business generated approximately $73.14 million in total revenue and $21.33 million in total profit, resulting in an overall profit margin of approximately 29%. This indicates that the business generated positive profit across the analyzed sales activities.
 
 The analysis also showed that the business processed approximately 8,000 orders and sold 36,000 units, with an average order value of about $9.15K. Brand performance varied, with Cedarline recording the highest revenue at approximately $10.32 million. These results provide useful insights into the company’s sales performance and highlight areas where management can further examine product, regional, customer, and sales-team performance
-<img width="840" height="629" alt="Screen Shot 2026-09-22 at 12 22 50 PM" src="https://github.com/user-attachments/assets/a74e911d-2d17-415c-ad26-77c422d0060b" />
-<img width="843" height="636" alt="Screen Shot 2026-09-22 at 12 22 14 PM" src="https://github.com/user-attachments/assets/c0c3c283-0057-4f75-a23e-77d2056856ef" />
-<img width="843" height="636" alt="Screen Shot 2026-09-22 at 12 21 59 PM" src="https://github.com/user-attachments/assets/cda3ba31-e158-4a9d-bc45-2f6d132d9fa9" />
-<img width="843" height="636" alt="Screen Shot 2026-09-22 at 12 21 39 PM" src="https://github.com/user-attachments/assets/7b9edab9-fa30-4a26-9e0a-a75f2df03fe7" />
-<img width="849" height="638" alt="Screen Shot 2026-09-22 at 12 21 08 PM" src="https://github.com/user-attachments/assets/f57e7dbd-00ef-4ad0-b066-94b07801e9e8" />
-les-team performance.
 
-
+<img width="840" height="629" alt="Screen Shot 2026-09-22 at 12 22 50 PM" src="https://github.com/user-attachments/assets/7a420670-c37c-4f6e-ad5a-bc99a849974b" />
+<img width="843" height="636" alt="Screen Shot 2026-09-22 at 12 22 14 PM" src="https://github.com/user-attachments/assets/3424e6e3-ad80-4519-88d7-0e0dca022cf0" />
+<img width="843" height="636" alt="Screen Shot 2026-09-22 at 12 21 59 PM" src="https://github.com/user-attachments/assets/708f0823-dee8-4eb2-969e-8d5df979c9e8" />
+<img width="843" height="636" alt="Screen Shot 2026-09-22 at 12 21 39 PM" src="https://github.com/user-attachments/assets/c4aabe96-5507-4b9e-bde1-c013651dd434" />
+<img width="849" height="638" alt="Screen Shot 2026-09-22 at 12 21 08 PM" src="https://github.com/user-attachments/assets/9a4849b4-8312-46af-8cae-66443c28457c" />
